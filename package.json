@@ -10,6 +10,14 @@
     "text-replacement"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtherwiseJunk/Pronounr.git"
+  },
+  "homepage": "https://github.com/OtherwiseJunk/Pronounr#readme",
+  "bugs": {
+    "url": "https://github.com/OtherwiseJunk/Pronounr/issues"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
